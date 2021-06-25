@@ -5,10 +5,12 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #222222;
-  background-color: #f2f4f6;
+  background-color: #afafb7;
   background-image: url("img/hero-bg.jpg");
   background-repeat: no-repeat;
-  background-position: top center;
+  background-size: contain;
+
+  
 }
 
 img {
@@ -56,7 +58,7 @@ img {
 }
 
 .hero-image {
-  margin-bottom: 620px;
+  margin-bottom: 50px;
 }
 
 .hero-image .container {
